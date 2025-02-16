@@ -1,2 +1,2 @@
 # yysend
-a file send tool like dukto 
+a file send tool like dukto with more features
